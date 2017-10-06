@@ -1,0 +1,15 @@
+{
+    "title": "Project X",
+    "baseURL": "https:\/\/tvpage.com\/projectx",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758386",
+        "subfolder": "\/projectx",
+        "firstpartycookies": true,
+        "cookiedomain": "tvpage.com"
+    }
+}
